@@ -10,6 +10,6 @@ Space: 跳躍。
 滑鼠右鍵按住: 進入靈界。
 ```  
 ## Video  
-[Youtube遊玩影片](https://youtu.be/VQ43wC4gwQE)  
+[Youtube](https://youtu.be/VQ43wC4gwQE)  
 ## Download  
-[exe下載](https://drive.google.com/file/d/13JhYa-Ha9KKUYCki_bYB0H1V4V92O05u/view?usp=sharing)
+[GoogleDrive](https://drive.google.com/file/d/13JhYa-Ha9KKUYCki_bYB0H1V4V92O05u/view?usp=sharing)
