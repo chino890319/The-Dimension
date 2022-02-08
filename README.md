@@ -9,6 +9,14 @@ E: 物件互動。
 Space: 跳躍。  
 滑鼠右鍵按住: 進入靈界。
 ```  
+## Skills  
+- Unity API
+- UGUI
+- Animation、Animator
+- Coroutine
+- NavMesh
+- PostProcessing
+- Fungus Plugin
 ## Video  
 [Youtube](https://youtu.be/VQ43wC4gwQE)  
 ## Download  
