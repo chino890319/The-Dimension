@@ -1,6 +1,7 @@
 # The-Dimension  
 ## About
 第一人稱恐怖解謎遊戲，玩家醒來發現被殺手關在房間裡...透過冤魂所賜予的"進入靈界"的能力及解謎房子裡的線索來逃出殺手的魔掌!  
+
 ## Control  
 ```  
 W、A、S、D: 前、左、後、右移動   
@@ -11,6 +12,7 @@ Shift: 跑步
 Space: 跳躍  
 滑鼠右鍵按住: 進入靈界  
 ```  
+
 ## Skills  
 - Unity API
 - UGUI
@@ -19,7 +21,12 @@ Space: 跳躍
 - NavMesh
 - PostProcessing
 - Fungus Plugin
+
+## Preview  
+![專題](https://github.com/suu0319/The-Dimension/assets/59763965/f3903afa-7ea7-4803-a67a-e19ca884897f)
+
 ## Video  
 [Youtube](https://youtu.be/VQ43wC4gwQE)  
+
 ## Download  
 [GoogleDrive](https://drive.google.com/file/d/13JhYa-Ha9KKUYCki_bYB0H1V4V92O05u/view?usp=sharing)
