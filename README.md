@@ -24,6 +24,8 @@ Space: 跳躍
 
 ## Preview  
 ![專題](https://github.com/suu0319/The-Dimension/assets/59763965/f3903afa-7ea7-4803-a67a-e19ca884897f)
+![image](https://github.com/suu0319/The-Dimension/assets/59763965/24a68be9-7e41-44ed-be23-d8371434f1e7)
+![image](https://github.com/suu0319/The-Dimension/assets/59763965/727ea04a-1d0b-40e4-9093-9d0ae83e6b12)
 
 ## Video  
 [Youtube](https://youtu.be/VQ43wC4gwQE)  
