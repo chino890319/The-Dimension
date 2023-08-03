@@ -43,9 +43,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0af9e76af8475754eb24ffb6dde67adc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cottonFibreCount: 1500
-  speed: 5
+  cottonFibreCount: 10000
+  speed: 1
   velocity: 1
   circleSize: 50
-  color: {r: 0, g: 0, b: 0, a: 1}
+  color: {r: 0.4245283, g: 0.4245283, b: 0.4245283, a: 1}
   lineMaterial: {fileID: 2100000, guid: 584d107c2f45a1842abb0abc30bf1ffd, type: 2}

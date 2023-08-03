@@ -74075,17 +74075,17 @@ PrefabInstance:
     - target: {fileID: 2683793366646820052, guid: ca7506104f1f8614aa0da804c6f8feec,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.1401932
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2683793366646820052, guid: ca7506104f1f8614aa0da804c6f8feec,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.8728746
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2683793366646820052, guid: ca7506104f1f8614aa0da804c6f8feec,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2.7769434
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2683793366646820052, guid: ca7506104f1f8614aa0da804c6f8feec,
         type: 3}
@@ -74141,41 +74141,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: 2683793366646820053, guid: ca7506104f1f8614aa0da804c6f8feec,
-        type: 3}
-      propertyPath: cottonFibreCount
-      value: 6000
-      objectReference: {fileID: 0}
-    - target: {fileID: 2683793366646820053, guid: ca7506104f1f8614aa0da804c6f8feec,
-        type: 3}
-      propertyPath: velocity
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2683793366646820053, guid: ca7506104f1f8614aa0da804c6f8feec,
-        type: 3}
-      propertyPath: speed
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2683793366646820053, guid: ca7506104f1f8614aa0da804c6f8feec,
-        type: 3}
-      propertyPath: color.r
-      value: 0.4245283
-      objectReference: {fileID: 0}
-    - target: {fileID: 2683793366646820053, guid: ca7506104f1f8614aa0da804c6f8feec,
-        type: 3}
-      propertyPath: color.g
-      value: 0.4245283
-      objectReference: {fileID: 0}
-    - target: {fileID: 2683793366646820053, guid: ca7506104f1f8614aa0da804c6f8feec,
-        type: 3}
-      propertyPath: color.b
-      value: 0.4245283
-      objectReference: {fileID: 0}
-    - target: {fileID: 2683793366646820053, guid: ca7506104f1f8614aa0da804c6f8feec,
-        type: 3}
-      propertyPath: circleSize
-      value: 50
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca7506104f1f8614aa0da804c6f8feec, type: 3}
