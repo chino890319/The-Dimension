@@ -2,7 +2,7 @@
 ## Platform
 PC
 
-## About
+## Intro
 A first-person horror puzzle game in which the player wakes up to find himself locked in a room by a killer... Escape from the killer's clutches by using your spirit-given ability to "enter the spirit world" and solving the clues in the house!
 
 ## Control  
