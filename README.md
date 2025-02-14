@@ -1,16 +1,19 @@
 # The-Dimension  
+## Platform
+PC
+
 ## About
-第一人稱恐怖解謎遊戲，玩家醒來發現被殺手關在房間裡...透過冤魂所賜予的"進入靈界"的能力及解謎房子裡的線索來逃出殺手的魔掌!  
+A first-person horror puzzle game in which the player wakes up to find himself locked in a room by a killer... Escape from the killer's clutches by using your spirit-given ability to "enter the spirit world" and solving the clues in the house!
 
 ## Control  
 ```  
-W、A、S、D: 前、左、後、右移動   
-F: 手電筒開關  
-E: 物件互動  
-Esc: 暫停選單 
-Shift: 跑步  
-Space: 跳躍  
-滑鼠右鍵按住: 進入靈界  
+W, A, S, D: Move Forward, Left, Backward, Right
+F: Toggle Flashlight
+E: Interact with Objects
+Esc: Pause Menu
+Shift: Sprint
+Space: Jump
+Hold Right Mouse Button: Enter Spirit Realm
 ```  
 
 ## Skills  
